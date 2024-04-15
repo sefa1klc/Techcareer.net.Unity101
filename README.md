@@ -11,6 +11,7 @@
 
 **D - Bağımlılıkların Tersine Çevrilmesi Prensibi (Dependency Inversion Principle):** Yazılım birimleri yüksek seviyeli modüllere değil, düşük seviyeli modüllere bağlı olmalıdır. Ve detaylar soyutlamalar üzerinden bağımlı hale getirilmelidir.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![oop](https://github.com/sefa1klc/Techcareer.net.Unity101/assets/79375624/757265f5-95f4-4576-b1e9-03f1e21b28e1)
 
 **Kapsülleme (Encapsulation):** Kapsülleme, veri ve işlevselliği bir araya getirerek bir nesnenin iç durumunu korumak için kullanılır. Bu, nesnelerin iç verilerine doğrudan erişimi kısıtlamak ve sadece belirli yöntemler aracılığıyla erişim sağlamak anlamına gelir.
@@ -23,8 +24,8 @@
 
 **Sınıflar ve Nesneler (Class and Objects):** Sınıflar, nesnelerin yapılarını ve davranışlarını tanımlamak için kullanılır. Nesneler, bu sınıfların örnekleridir ve gerçek dünyadaki varlıkları temsil ederler.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![052616_1018_CFundamenta15](https://github.com/sefa1klc/Techcareer.net.Unity101/assets/79375624/85d0e704-2165-4b16-8cef-b8f5bf049956)
-
 
 **Enum Sınıfları (Enumeration Classes):** Enum sınıfları, belirli bir türdeki sabit değerlerin bir koleksiyonunu temsil eder. Örneğin, haftanın günleri gibi sıralı bir listeyi temsil etmek için kullanılabilirler. Enum sınıfları, sabitlerin okunabilirliğini artırır ve kodun daha anlaşılır olmasını sağlar.
 
